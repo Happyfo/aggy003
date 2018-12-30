@@ -1,0 +1,60 @@
+
+@import url('http://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+    font-family: 'Open Sans', Arial, Helvetica,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+
+.no-margin{
+    margin: 0px;
+}
+.no-padding{
+    padding: 0px;
+}
+.nav li {
+display:inline-block;
+
+}
+.madiba{
+
+}
+.footer{
+   
+    color: black;
+    margin-top: 0px;
+    padding-top: 10px;
+}
+.footer-nav{
+   
+    margin: 10px;
+    list-style: none;
+   
+    
+}
+.footer-nav li{
+    
+    margin: 10px;
+    display: inline;
+}
+.footer-nav li a{
+    text-decoration: none;
+    color: black;
+    
+}
+.footer-nav li ::before{
+    
+    padding: 0px 10px;
+}
+.jumbotron{
+    background-image: url("../images/img/banner_1200.jpg");
+    background-size: cover;
+color: blanchedalmond;
+background-repeat: no-repeat;
+margin-bottom: 0px;
+    
+}
+.row{
+   margin: 0px;
+ 
+}
